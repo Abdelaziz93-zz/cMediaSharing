@@ -1,4 +1,5 @@
 ﻿# Was ist cMediaSharing eigentlich?
+
 collaborativeMediaSharing (kurz: cMediaSharing) ist die richtige Software für Gruppen, Vereine oder für Freundeskreise um innerhalb diese Inhalte zu teilen. Meistens werden soziale Netzwerke wie z.B. Facebook oder Twitter für diese Zwecke verwendet, dennoch sind sie nicht so komfortable und für genau diese Zwecke ausgerichtet, zum Einen können sie mit cMediaSharing Inhalte vor ihrer Veröffentlichung nocheinmal überprüfen bevor sie für die Öffentlichkeit sichtbar sind und zum Anderen gehen alte Beiträge bei obg. Netzwerken „unter”. cMediaSharing bietet ihnen die Möglichkeit ihre veröffentlichten Medien zu organisieren und zu kategorisieren, übrigens ist eine Bewertung einzelner Medien, sofern sie diese aktiviert haben auch über einen Mausklick möglich.
 
 #### cMediaSharing kann auch anders!
