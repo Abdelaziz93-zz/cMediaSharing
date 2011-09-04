@@ -1,0 +1,165 @@
+body {
+	background: #FFF;
+	color: #000;
+	font-size: 13px;
+	margin:0px;
+}
+#header {
+	width: 100%;
+	background-color: #0A74AA;
+	height: 100px;
+}
+
+#player {
+	border-bottom:1px solid #026CB1;
+	margin-bottom:10px;
+	
+	border-bottom-right-radius: 6px;
+	border-bottom-left-radius: 6px;
+}
+
+.logo {
+	color: #FFF;
+	font-family: Tahoma;
+	font-size: 40px;
+	font-weight: bold;
+	padding:25px;
+}
+
+.slogan {
+	font-weight:normal;
+	font-size:11px;
+}
+
+.topmenu {
+	font-weight:bold;
+	font-size:11px;
+	font-family:verdana;
+
+	color:#FFF;
+	text-decoration:none;
+	padding:5px;
+	float:right;
+	border-top-right-radius: 6px;
+	border-top-left-radius: 6px;
+	margin-top:51px;
+}
+
+.topmenu:link {
+	color:#FFF;
+}
+
+.topmenu:visited {
+	color:#FFF;
+	text-decoration:none;
+}
+
+.topmenu:hover {
+	background-color:#43A0DE;
+	text-decoration:none;
+}
+
+.newsfeed {
+	width:20%;
+	float:left;
+	margin-left: 1%;
+}
+
+.scontent {
+	width: 54%;
+	float:left;
+	margin-left:1%;
+}
+
+.wbox {
+	width: 24%;
+	float: left;
+	font-family:Verdana;
+	font-size:11px;
+}
+
+.topbar {
+	width:100%;
+	background-color:#026CB1;
+	color:#FFF;
+	font-weight:bold;
+	font-size:13px;
+	padding-top:5px;
+	padding-bottom:5px;
+	font-family:Verdana;
+	border-top-right-radius: 6px;
+	border-top-left-radius: 6px;
+}
+
+.boxcontent {
+	background-color:#FAFAFA;
+	width:100%;
+	padding:2%;
+	font-family:Verdana;
+	font-size:11px;
+}
+
+.container {
+	width:95%;
+	margin:auto;
+}
+
+.item {
+	border-bottom:1px solid #EEE;
+	width:96%;
+	padding-left:4%;
+	padding-top:1%;
+	padding-bottom:1%;
+	cursor:pointer;
+}
+
+.video {
+	background-image:url('../img/video.png');
+	background-repeat: no-repeat;
+	background-position: 3px 3px;
+}
+
+.audio {
+	background-image:url('../img/audio.png');
+	background-repeat: no-repeat;
+	background-position: 3px 3px;
+}
+
+.doc {
+	background-image:url('../img/doc.png');
+	background-repeat: no-repeat;
+	background-position: 3px 3px;
+}
+
+.book {
+	background-image:url('../img/pdf.png');
+	background-repeat: no-repeat;
+	background-position: 3px 3px;
+}
+
+.photo {
+	background-image:url('../img/photo.png');
+	background-repeat: no-repeat;
+	background-position: 3px 3px;
+}
+
+.title {
+	font-weight:bold;
+}
+
+.author {
+	font-size:9px;
+}
+
+.thumbs {
+	float:right;
+}
+
+.infot {
+	color:#A5A5A5;
+	font-size:9px;
+	display:none;
+}
+
+.pcont {
+}

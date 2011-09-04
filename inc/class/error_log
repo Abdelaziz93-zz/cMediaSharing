@@ -1,0 +1,2 @@
+[09-Aug-2011 17:48:39] PHP Parse error:  syntax error, unexpected '(', expecting ';' or '{' in /home/drilon/public_html/inc/class/template.class.php on line 10
+[09-Aug-2011 17:48:55] PHP Warning:  file_get_contents(./inc/tmpl/standard_theme/index.tpl) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/drilon/public_html/inc/class/template.class.php on line 16
