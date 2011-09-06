@@ -3,7 +3,7 @@
 /* end template head */ ob_start(); /* template body */ ?><!DOCTYPE HTML>
 <html>
 <head>
-	<title><?php echo $this->scope["settings"]["site_name"];?> - <?php echo $this->scope["content"]["title"];?></title>
+	<title><?php echo $this->scope["settings"]["site_name"];?> - <?php echo $this->scope["lang"]["error_title"];?></title>
 	<style type="text/css">
 		body {
 			background-color:#F3F3F3;

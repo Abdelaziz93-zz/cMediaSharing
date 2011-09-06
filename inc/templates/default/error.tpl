@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>{$settings.site_name} - {$content.title}</title>
+	<title>{$settings.site_name} - {$lang.error_title}</title>
 	<style type="text/css">
 		body {
 			background-color:#F3F3F3;
